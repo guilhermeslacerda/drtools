@@ -1,6 +1,6 @@
 <img src="https://guilhermeslacerda.github.io/drtools-site/images/logo_drtools.png" alt="DR-Tools Suite" title="DR-Tools Suite" width="350"/>
 
-# [DR-Tools Suite]
+# DR-Tools Suite
 
 [DR-Tools Suite](https://drtools.dev/) is a set of open-source tools that provide resources and information to improve source code quality, supporting the developers in his daily work.
 
@@ -16,6 +16,6 @@ More information at the [official website](https://drtools.dev/).
 
 # Products and Source Code
 
-* [drtools-metric](available soon!)
+* drtools-metric (available soon!)
 * [drtools-metric visualization](http://www.github.com/guilhermeslacerda/drtools-metric-visualization/)
 
