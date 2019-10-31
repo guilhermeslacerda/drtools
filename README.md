@@ -2,7 +2,7 @@
 
 # DR-Tools Suite
 
-[DR-Tools Suite](https://drtools.site/) is a set of open-source tools that provide resources and information to improve source code quality, supporting the developers in his daily work.
+[DR-Tools Suite](http://drtools.site/) is a set of open-source tools that provide resources and information to improve source code quality, supporting the developers in his daily work.
 
 Our intention is to create an open developers community engaged in to improve your software development skills, reducing the gap between academic research and industry.
 
@@ -12,7 +12,7 @@ Instructors can use the DR-Tools Suite to teaching classes about software qualit
 
 Finally, professional developers can use the DR-Tools Suite to plan and execute your software development activities (analysis of problematic pieces of code, refactorings, code review, among others).
 
-More information at the [official website](https://drtools.site/). 
+More information at the [official website](http://drtools.site/). 
 
 # Products and Source Code
 
