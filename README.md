@@ -16,6 +16,6 @@ More information at the [official website](http://drtools.site/).
 
 # Products and Source Code
 
-* drtools-metric (available soon!)
+* [drtools-metric] (http://www.github.com/guilhermeslacerda/drtools-metric/)
 * [drtools-metric visualization](http://www.github.com/guilhermeslacerda/drtools-metric-visualization/)
 
